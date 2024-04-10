@@ -1,0 +1,20 @@
+`Albert Einstein - Fisico - 14 marzo 1879 - Tedesco | Medaglia Barnard (1920) / Medaglia Nobel per la Fisica (1921) / Medaglia Matteucci (1921) / Medaglia Copley (1925) / Medaglia d'oro della Royal Astronomical Society (1926) / Medaglia Max Planck (1929) / Medaglia Franklin (1935)`
+`Johannes Kepler  - Astronomo e Astrologo - 27 dicembre 1571 - Tedesco | Ha scoperto pianeti, stelle e fatto diverse osservazioni scientifiche e fisiche con anche l'enuncazione di delle su eleggi`
+`Leonardo da Vinci - Scienziato, Inventore, Artista - 15 aprile 1452 - Italiano |`
+`Steve Jobs - Settore tecnologico\Founder di Apple - 24 febbraio 1955 - Statunitense| Medaglia Nazionale per la Tecnologia e l'Innovazione (1985) / Producers Guild of America Awards: Vanguard Award (2002) / Grammy Trustees Award (2012) / BRAVO Otto – Internet Star (2011)`
+`Alan Turing - Informatica e Matematica - 23 giugno 1912 - Britannico | Ha aiutato gli alleati a sconfiggere i tedeschi nella seconda guerra mondiale`
+`Elon Musk - Ingegneria e Tecnologia - Sudafricano con cittadinaza canadese - 28 giugno 1971 | Ceo di Tesla, co-fondatore di Paypall e fondatore di SpaceX`
+`Salvador Dalí - Artista pittore -  11 maggio 1904 - Spagnolo | Pittore del 1900 / baffi stravaganti`
+`Grace Murray Hopper - Matematica, Programmatrice informatica - 9 dicembre 1906 - Statunitense | IEEE Emanuel R. Piore Award (1988) / Medaglia Nazionale per la Tecnologia e l'Innovazione (1991)  / Medaglia presidenziale della libertà (2016)`
+`Nikola Tesla - Ingegneria e Fisica - 10 luglio 1856 - Croato | Elliott Cresson Medal (1894) / Medaglia Edison (1916) / John Scott Legacy Medal and Premium (1934) | Ha inventato la Tesla`
+`Stephen Hawking - Fisica e Cosmologia - 8 gennaio 1942 - REgrno Unito | Premio Wolf per la fisica (1988) / Medaglia Copley (2006)`
+`Claude Monet - Arte - 14 novembre 1840 - Francese | `
+`Thomas Edison - Ingegneria - 11 febbraio 1847 - Statunitense | Technology & Engineering Emmy Award for TV Pioneer Hall of Fame (2023) / Grammy Trustees Award (1977) / Technical Grammy Award (2010)`
+`Marie Curie - fisica - 7 novembre 1867 - Polacca |  Premio Nobel per la fisica (1903) / Premio Nobel per la chimica (1911)`
+`Hedy Lamarr - attrice e inventrice - 9 novembre 1914 - Austriaca | EFF Pioneer Award (1997) | ha co-inventato una tecnologia di spettro espanso per le comunicazioni wireless che ha reso possibile lo sviluppo del Wi-Fi, del Bluetooth e di altre tecnologie.`
+`Tim Berners-Lee - informatico - 8 giugno 1955  - Britannico | Millennium technology prize (2004) / Premio Turing (2016)`
+`Katherine G. Johnson - matematica e informatica -  26 agosto 1918 - Statunitense | Medaglia d'oro del Congresso (2019) |  Contribuì allo sviluppo dell'aeronautica statunitense e ai programmi spaziali, già dal primo utilizzo dei computer elettronici digitali da parte della NASA.`
+`John von Neumann - matematico, fisico e informatico -28 dicembre 1903 - Ungherese | Premio Enrico Fermi (1956) / Bôcher Memorial Prize (1938) / Medal for Merit (1947) | ùinventore della machcina che porta il suo nome`
+`James Clerk Maxwell - fisico e matematico - 13 giugno 1831 - Britannico |  Famoso per aver unificato le teorie dell'elettricità e del magnetismo nelle equazioni di Maxwell, che hanno aperto la strada alla teoria dell'elettromagnetismo.`
+`Guglielmo Marconi - fisico e inventore - 25 aprile 1874 - Italiano | Premio Nobel per la fisica (1909) | è stato uno dei pionieri delle telecomunicazioni senza fili, sviluppando il primo sistema di comunicazione radio di successo.`
+`Enrico Fermi - scienziato - 29 settembre 1901 - Italiano | Nel 1942 realizzò la pila di Fermi, prima reazione a catena controllata in una pila atomica, che aprirà le porte all'energia nucleare. Il progetto Manhattan: la costruzione della bomba atomicaNel 1944 a Los Alamos prenderà parte al progetto governativo Manhattan per la costruzione della bomba atomica.`
