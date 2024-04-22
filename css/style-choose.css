@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(../img-index/sfondo.png);
+    background-image: url(../img/sfondo.png);
     background-repeat: repeat;
 }
 /*header*/
@@ -14,7 +14,5 @@ header{
     box-shadow: 0 0px 20px white;
     position: top;
     color: white;
-    background-image: url(../img-inde/sfondo.png);
-    background-repeat: repeat;
     text-shadow: 0 5px 5px #000;
 }
