@@ -8,7 +8,7 @@
 - `Grace Murray Hopper - Matematica, Programmatrice informatica - 9 dicembre 1906 - Statunitense | IEEE Emanuel R. Piore Award (1988) / Medaglia Nazionale per la Tecnologia e l'Innovazione (1991)  / Medaglia presidenziale della libertà (2016)`
 - `Nikola Tesla - Ingegneria e Fisica - 10 luglio 1856 - Croato | Elliott Cresson Medal (1894) / Medaglia Edison (1916) / John Scott Legacy Medal and Premium (1934) | Ha inventato la Tesla`
 - `Stephen Hawking - Fisica e Cosmologia - 8 gennaio 1942 - REgrno Unito | Premio Wolf per la fisica (1988) / Medaglia Copley (2006)`
-- `Claude Monet - Arte - 14 novembre 1840 - Francese | `
+- `Pablo Picasso - Arte - 8 aprile 1973 - Spagnolo | ` Premio Lenin per la pace (1962)
 - `Thomas Edison - Ingegneria - 11 febbraio 1847 - Statunitense | Technology & Engineering Emmy Award for TV Pioneer Hall of Fame (2023) / Grammy Trustees Award (1977) / Technical Grammy Award (2010)`
 - `Marie Curie - fisica - 7 novembre 1867 - Polacca |  Premio Nobel per la fisica (1903) / Premio Nobel per la chimica (1911)`
 - `Hedy Lamarr - attrice e inventrice - 9 novembre 1914 - Austriaca | EFF Pioneer Award (1997) | ha co-inventato una tecnologia di spettro espanso per le comunicazioni wireless che ha reso possibile lo sviluppo del Wi-Fi, del Bluetooth e di altre tecnologie.`
