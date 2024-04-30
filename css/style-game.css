@@ -1,10 +1,10 @@
 /*body*/
 body{
+    background-repeat: repeat;
     padding: 0;
     margin: 0;
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(../img/sfondo.png);
-    background-repeat: repeat;
+
 }
 /*header*/
 header{
@@ -13,7 +13,6 @@ header{
     font-size: 5em;
     font-family: 'Courier New', Courier, monospace;
     box-shadow: 0 0px 20px white;
-    position: top;
     color: white;
     text-shadow: 0 5px 5px #000;
 }
@@ -30,5 +29,10 @@ footer{
     height:37.2em;
 }
 .bg-img{
-    background-image: url();
+    background-image: url("../img/sfondo.png");
+}
+@media only screen and (max-width: 640px) {
+    .set-h{
+        height:19.2em;
+    }
 }

@@ -8,11 +8,12 @@
     <link rel="stylesheet" href="../css/style-game.css">
     <link rel="icon" type="image/png" href="../img/favicon.png" sizes="32x32" />
 </head>
-<body>
-    <header>STEAM Who?</header>
-    <div class="flex shrink" id="info-pers">
-        <div class="w-3/5 bg-img set-h">01</div>
-        <div class="border-l-2 w-2/5 set-h bg-teal-50">
+<body style="background-image: url('img/sfondo.png')">
+<header>STEAM Who?</header>
+    <div class="shrink grid sm:grid-cols-3" id="info-pers">
+        <div class="w-3/5 bg-img set-h sm:col-span-2">01
+        </div>
+        <div class="border-l-2 set-h bg-teal-50">
             <p class="text-Black font-bold font-serif text-2xl ml-1">Nome personaggio</p>
             <div class="flex">
                 <img src="../img/" alt="img-personaggio" class="size-60 rounded-lg ml-2 mr-1">
@@ -36,7 +37,7 @@
             </div>
         </div>
     </div>
-    <footer class="h-1/4 absolute inset-x-0 bottom-0">
+    <footer class="h-1/4 relative inset-x-0 bottom-0">
         <div class="w-full border-t-2 border-b-2 border-dashed h-20">Domande</div>
         <button class="border-2 bg-lime-400 hover:bg-lime-500 rounded-lg w-24 h-16 text-5xl font-bold mt-7">SI</button>
         <button class="border-2 bg-red-600 hover:bg-red-700 rounded-lg w-24 h-16 text-5xl font-bold mt-7">NO</button>
